@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 user = "root"
-pw = "Doylestown01!"
+pw = "" ## tdown10!!
 loc = "localhost"
 db_name = "fn"
 
